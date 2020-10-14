@@ -1,5 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 3% 25%;
+    padding: 2% 3%;
 }
 h1 {
     font-weight: 800;
