@@ -2,5 +2,14 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 h1 {
-    font-weight: 900;
+    font-weight: 800;
+}
+h2 {
+    font-weight: 800;
+}
+h3 {
+    margin-left: 1.3em;
+}
+ul {
+    list-style-type: circle;
 }
