@@ -1,9 +1,11 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: rgb(230, 230, 230);
 }
 .document {
     margin: 3% 25%;
     padding: 2% 3%;
+    background-color: rgb(247, 247, 247);
 }
 h1 {
     font-weight: 800;
