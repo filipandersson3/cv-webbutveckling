@@ -1,9 +1,29 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: rgb(230, 230, 230);
+    margin: 0;
+}
+.logo {
+    height: 2.5rem;
+    margin-top: 1%;
+    margin-bottom: 1%
+}
+nav {
+    padding: 0% 22%;
+    background-color: rgb(247, 247, 247);
+}
+.navbarlist {
+    display: flex;
+    box-sizing: border-box;
+    list-style: none;
+    margin-top: 0%;
+    padding-left: 0%;
+}
+.navbarlist > li {
+    margin: 2.5% auto 2.5% auto;
 }
 .document {
-    margin: 3% 25%;
+    margin: 3% 22%;
     padding: 2% 3%;
     background-color: rgb(247, 247, 247);
 }
