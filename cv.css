@@ -6,11 +6,12 @@ body {
 .logo {
     height: 2.5rem;
     margin-top: 1%;
-    margin-bottom: 1%
+    margin-bottom: 1%;
+    margin-right: 3%;
 }
 nav {
     padding: 0% 22%;
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(255, 250, 180);
 }
 .navbarlist {
     display: flex;
@@ -18,9 +19,17 @@ nav {
     list-style: none;
     margin-top: 0%;
     padding-left: 0%;
+    justify-content: center;
 }
-.navbarlist > li {
-    margin: 2.5% auto 2.5% auto;
+.navbaritem {
+    padding: 1rem;
+    border-right: 1px solid black;
+}
+.navbaritem:nth-child(2) {
+    border-left: 1px solid black;
+}
+.navbaritem:last-child {
+    margin-right: 0;
 }
 .document {
     margin: 3% 22%;
