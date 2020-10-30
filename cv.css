@@ -22,7 +22,7 @@ nav {
     justify-content: center;
 }
 .navbaritem {
-    padding: 1rem;
+    padding: 1.25rem 1rem 1rem 1rem;
     border-right: 1px solid black;
 }
 .navbaritem:nth-child(2) {
@@ -67,4 +67,10 @@ h3.list {
 }
 ul {
     list-style-type: circle;
+}
+footer {
+    margin: 0 0 0;
+    padding: 5% 5% 3% 5%;
+    color: rgb(247, 247, 247);
+    background-color: rgb(27, 27, 27);
 }
