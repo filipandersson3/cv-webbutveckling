@@ -5,6 +5,7 @@
 https://www.figma.com/file/mqSlxMYHrEmEyME42d0C9z/cvskiss?node-id=0%3A1
 
 # Planering:
+Jag började med att kolla på olika CV exempel på google och gjorde några skisser, sen figma, sen började jag med HTML och CSS.
 ## Komponenter och struktur: 
 Samma komponenter och struktur som på min figma skiss. Kanske inte lägger till informationen på vänstra sidan.
 ## Färg: 
